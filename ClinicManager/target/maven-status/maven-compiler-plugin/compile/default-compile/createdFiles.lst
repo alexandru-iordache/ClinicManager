@@ -1,0 +1,4 @@
+clinic_manager\entities\Administrator_.class
+clinic_manager\entities\User_.class
+clinic_manager\entities\Doctor_.class
+clinic_manager\entities\Schedule_.class
